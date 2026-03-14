@@ -1,1 +1,1 @@
-|| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=giampaolo)](https://github.com/giampaolo/github-readme-stats) ||[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giampaolo)](https://github.com/giampaolo/github-readme-stats) ||
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=giampaolo)](https://github.com/giampaolo/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giampaolo)](https://github.com/giampaolo/github-readme-stats)
